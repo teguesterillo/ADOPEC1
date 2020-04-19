@@ -89,7 +89,7 @@ El estudio fue publicado en 2018 y los artículos asociados se pueden encontrar 
 
 * Análisis de significación biológica. A partir de una lista de genes diferencialmente expresados entre dos condiciones (comparación), el análisis de enriquecimiento busca las funciones, los procesos biológicos y las vías moleculares que están sobrerrepresentadas o infrarrepresentadas. Para hacer este análisis primero se crearon las listas de genes, seleccionando en cada comparación los genes que presentan un FDR <0.0000005, usando las tablas creadas con topTable. A continuación se realizó el análisis mediante el paquete ReactomePA. Como input se utilizaron estas listas de genes y como universo de genes, aquellos con al menos una anotación en Gene Ontology. Como output se obtuvieron, por cada comparación: una tabla con los "pathways" enriquecidos y la información estadística asociada y un gráfico de red que relaciona los "pathways" y los genes.
 
-* Disponibilidad de los datos y reproducibilidad. Los datos utilizados así como un script para reproducir este análisis se encuentran en el siguiente repositorio de github: <https://github.com/teguesterillo/ADO-PEC1.git>
+* Disponibilidad de los datos y reproducibilidad. Los datos utilizados así como un script para reproducir este análisis se encuentran en el siguiente repositorio de github: <https://github.com/teguesterillo/ADOPEC1.git>
 
 
 ### Resultados
