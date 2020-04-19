@@ -1,0 +1,8 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust
+R-MMU-380108,Chemokine receptors bind chemokines,07/94,56/8772,1.96E-06,0.000528731
+R-MMU-449147,Signaling by Interleukins,13/94,262/8772,3.89E-06,0.000528731
+R-MMU-168928,DDX58/IFIH1-mediated induction of interferon-alpha/beta,04/94,30/8772,0.000273757,0.023937545
+R-MMU-73887,Death Receptor Signalling,07/94,124/8772,0.000352023,0.023937545
+R-MMU-198933,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,06/94,105/8772,0.000885164,0.037969262
+R-MMU-375276,Peptide ligand-binding receptors,08/94,188/8772,0.000885594,0.037969262
+R-MMU-446652,Interleukin-1 family signaling,06/94,107/8772,0.00097715,0.037969262

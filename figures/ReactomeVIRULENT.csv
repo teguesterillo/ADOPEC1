@@ -1,0 +1,12 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust
+R-MMU-68962,Activation of the pre-replicative complex,13/280,30/8772,2.00E-12,1.18E-09
+R-MMU-453279,Mitotic G1-G1/S phases,22/280,126/8772,5.61E-11,1.66E-08
+R-MMU-69206,G1/S Transition,19/280,103/8772,4.52E-10,8.93E-08
+R-MMU-69242,S Phase,21/280,142/8772,3.68E-09,5.46E-07
+R-MMU-69002,DNA Replication Pre-Initiation,16/280,82/8772,4.75E-09,5.63E-07
+R-MMU-69306,DNA Replication,19/280,123/8772,1.00E-08,9.91E-07
+R-MMU-380108,Chemokine receptors bind chemokines,13/280,56/8772,1.49E-08,1.27E-06
+R-MMU-176187,Activation of ATR in response to replication stress,10/280,34/8772,6.23E-08,4.62E-06
+R-MMU-69239,Synthesis of DNA,17/280,115/8772,1.19E-07,7.85E-06
+R-MMU-69278,"Cell Cycle, Mitotic",39/280,499/8772,1.51E-07,8.94E-06
+R-MMU-69481,G2/M Checkpoints,20/280,163/8772,2.15E-07,1.16E-05
