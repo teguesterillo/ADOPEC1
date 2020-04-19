@@ -1,0 +1,8 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"R-MMU-380108","Chemokine receptors bind chemokines","7/94","56/8772",1.95792455057103e-06,0.000528731064534532,0.000493127656938166,"Cxcl2/Ccl5/Ccl12/Ccl7/Cxcr4/Ccl17/Ccrl2",7
+"R-MMU-449147","Signaling by Interleukins","13/94","262/8772",3.88772841569509e-06,0.000528731064534532,0.000493127656938166,"Il1a/Irak3/Il6/Nfkbia/Socs3/Il1b/Hck/Il1rl1/Il1rn/Osm/Il4ra/Csf3/Csf1",13
+"R-MMU-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta","4/94","30/8772",0.000273757266845129,0.0239375447263637,0.0223256512347278,"Nfkbia/Ikbke/Irf7/Tnfaip3",4
+"R-MMU-73887","Death Receptor Signalling","7/94","124/8772",0.000352022716564173,0.0239375447263637,0.0223256512347278,"Tnf/Nfkbia/Traf1/Arhgef3/Fas/Tnfaip3/Vav3",7
+"R-MMU-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell","6/94","105/8772",0.000885164366450561,0.0379692615190568,0.035412507840916,"C3/Pilra/Siglece/Cd40/Icam1/Trem1",6
+"R-MMU-375276","Peptide ligand-binding receptors","8/94","188/8772",0.000885594373931199,0.0379692615190568,0.035412507840916,"Cxcl2/Ccl5/C3/Ccl12/Ccl7/Cxcr4/Ccl17/Ccrl2",8
+"R-MMU-446652","Interleukin-1 family signaling","6/94","107/8772",0.000977150112622785,0.0379692615190568,0.035412507840916,"Il1a/Irak3/Nfkbia/Il1b/Il1rl1/Il1rn",6
